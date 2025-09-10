@@ -29,22 +29,22 @@ Built with **Streamlit**, **LangChain**, **FAISS**, **HuggingFace embeddings**, 
 ## ⚙️ Installation
 
 1. **Clone the repository**
-   git clone https://github.com/dharshriya15/CustomerSupportRAGBot.git
-   cd CustomerSupportRAGBot
+   - git clone https://github.com/dharshriya15/CustomerSupportRAGBot.git
+   - cd CustomerSupportRAGBot
 
 2. **Create and activate virtual environment**
-  python -m venv venv
-  source venv/bin/activate   # Linux/Mac
-  venv\Scripts\activate      # Windows
+   - python -m venv venv
+   - source venv/bin/activate   # Linux/Mac
+   -  venv\Scripts\activate      # Windows
 
 3. **Create and activate virtual environment**
-  pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 ▶️ Usage
 
 Run the Streamlit app:
 
-  streamlit run rag_support_bot.py
+      - streamlit run rag_support_bot.py
 
 - Enter your Groq API Key in the sidebar
 
