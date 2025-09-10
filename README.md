@@ -44,7 +44,7 @@ Built with **Streamlit**, **LangChain**, **FAISS**, **HuggingFace embeddings**, 
 
 Run the Streamlit app:
 
-  streamlit run app.py
+  streamlit run rag_support_bot.py
 
 - Enter your Groq API Key in the sidebar
 
